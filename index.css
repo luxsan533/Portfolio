@@ -9,15 +9,6 @@
     box-sizing: border-box; /* Include padding and border in the element's total width and height */
 }
 
-/* body {
-    margin: 0; 
-    padding: 0;
-    background-image: url('portfolioimage.jpg');
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat;
-    height: 100vh;
-  } */
 
   @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
 
@@ -36,7 +27,7 @@
     height: 800px;
     color: #fff;
     text-align: center;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('images/portfolioimage.jpg') no-repeat center center;
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('portfolioimage.jpg') no-repeat center center;
     /* background-color: rgba(0, 0, 0, 0.5); Semi-transparent black layer */
 
     /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);  */
